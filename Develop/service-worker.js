@@ -5,7 +5,7 @@ const FILES_TO_CACHE = [
     '/style.css',
     '/icons/icon-192x192.png',
     '/icons/icon-512x512.png',
-    '/dist/bundle.js',
+    '/manifest.webmanifest',
 ];
 
 const STATIC_CACHE = "static-cache-v2";
